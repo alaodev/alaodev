@@ -42,7 +42,7 @@ Abaixo você conhecerá as minhas mais recentes experiências profissionais:
 **Desenvolvedor FullStack** \
 [**iRancho**](https://www.irancho.com.br/) • Full-time \
 Linguagens e Tecnologias: `Vue.js`, `React Native`, `Node.js`, `MySQL`, `Sequelize ORM`\
-Featured Projects: [iRancho Web](https://app.irancho.com.br/), [App do Peão](https://play.google.com/store/apps/details?id=br.com.irancho.appdopeao)
+Projetos Trabalhados: [iRancho Web](https://app.irancho.com.br/), [App do Peão](https://play.google.com/store/apps/details?id=br.com.irancho.appdopeao)
 <br/>
   
   
