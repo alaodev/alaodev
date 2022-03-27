@@ -1,16 +1,70 @@
-### Hi there 👋
+<h1>Olá, sou André Luiz</h1>
 
-<!--
-**alaodev/alaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+- 🔭 Trabalho como Desenvolvedor FullStack na empresa iRancho. Tenho contato diário com as tecnologias: Vue.js, React Native, Node.js e MySQL
+- 🌱 Estudando Vue.js, React, React Native e Node.js
+- 📫 Contacte-me no email: alaodev@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<div align="center">
+  <a href="https://github.com/Mateus-Batista12">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=alaodev&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaodev&theme=dark" />
+</div>
+
+<br>
+<br>
+  
+<div>
+  <img align="center" alt="alaodev-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="alaodev-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="alaodev-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="alaodev-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="alaodev-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="alaodev-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="alaodev-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+  
+<br/>
+<br/>
+
+### Experiência Profissional
+Abaixo você conhecerá as minhas mais recentes experiências profissionais:
+
+[<img align="left" height="94px" width="94px" alt="irancho" src="https://scontent.fgyn11-1.fna.fbcdn.net/v/t1.6435-9/47391911_1062668847268318_7566967033854689280_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4tka--pXR40AX8gIqGB&_nc_ht=scontent.fgyn11-1.fna&oh=00_AT_azdVFfkADMKF-t1TAI80zjInlz85RSRghegJBEGrKyQ&oe=6264AAB0" />](https://www.spacex.com/)
+
+**Desenvolvedor FullStack** \
+[**iRancho**](https://www.irancho.com.br/) • Full-time \
+Linguagens e Tecnologias: `Vue.js`, `React Native`, `Node.js`, `MySQL`, `Sequelize ORM`\
+Featured Projects: [iRancho Web](https://app.irancho.com.br/), [App do Peão](https://play.google.com/store/apps/details?id=br.com.irancho.appdopeao)
+<br/>
+  
+  
+[<img align="left" height="94px" width="94px" alt="ilion" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGAPXAJIw6_RQ/company-logo_200_200/0/1553538222383?e=2159024400&v=beta&t=9Bms1J9QB7UHAYPCmMGJwlYbvzYesefwK5v4VEQ4nX8"/>](https://ilion.com.br/)
+
+**Desenvolvedor FrontEnd** \
+[**ILION**](https://ilion.com.br/) • Full-time \
+Linguagens e Tecnologias: `HTML`, `CSS`, `Javascript`, `Java`, `PostgreSQL`, `Photoshop`, `Figma`\
+Projetos Trabalhados: [Polo Imóveis](http://www.poloimoveis.com.br/), [eMagis](https://www.emagis.com.br/home/), [EQ Seguros](https://www.eqseguros.com.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="mpgo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvJaS_DvjyUdHf0i-iMsyUj-DaAJ8OmDXEg&usqp=CAU" />](https://mpgo.mp.br/portal/)
+
+**Suporte ao Usuário** \
+[**MPGO**](https://mpgo.mp.br/portal) • Estagiário \
+Atividades: `Atendimento Remoto`, `Atendimento Presencial`, `Manutenção e Instalação de Equipamentos`\
+<br/>
+<br/>
+  
+<div>
+  <a href="mailto:alaodev@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:alaodev@gmail.com"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:alaodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alaodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+</div>
