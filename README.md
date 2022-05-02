@@ -37,7 +37,7 @@
 ### Experiência Profissional
 Abaixo você conhecerá as minhas mais recentes experiências profissionais:
 
-[<img align="left" height="94px" width="94px" alt="irancho" src="https://scontent.fgyn11-1.fna.fbcdn.net/v/t1.6435-9/47391911_1062668847268318_7566967033854689280_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=4tka--pXR40AX8gIqGB&_nc_ht=scontent.fgyn11-1.fna&oh=00_AT_azdVFfkADMKF-t1TAI80zjInlz85RSRghegJBEGrKyQ&oe=6264AAB0" />](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="irancho" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG264fYPYEj3Q/company-logo_200_200/0/1544279027768?e=2147483647&v=beta&t=5gUGZ8MgD5hW0UUOUGkE5Qsu2ZHD-CjWXsFzUZrOulU" />](https://www.spacex.com/)
 
 **Desenvolvedor FullStack** \
 [**iRancho**](https://www.irancho.com.br/) • Full-time \
