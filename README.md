@@ -36,6 +36,14 @@
 
 ### Experiência Profissional
 Abaixo você conhecerá as minhas mais recentes experiências profissionais:
+  
+[<img align="left" height="94px" width="94px" alt="qualicorp" src="https://media.giphy.com/avatars/qualicorp_/l0kEmf0RzZv8.png" />](https://www.qualicorp.com.br/)
+
+**Desenvolvedor FullStack** \
+[**Qualicorp**](https://www.qualicorp.com.br/) • Full-time \
+Linguagens e Tecnologias: `Vue.js`, `Node.js`, `Neo4j`\
+Projetos Trabalhados: Motor de Buscas
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="irancho" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG264fYPYEj3Q/company-logo_200_200/0/1544279027768?e=2147483647&v=beta&t=5gUGZ8MgD5hW0UUOUGkE5Qsu2ZHD-CjWXsFzUZrOulU" />](https://www.spacex.com/)
 
