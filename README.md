@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 Trabalho como Desenvolvedor FullStack na empresa Qualicorp. Tenho contato diário com as tecnologias: Vue.js, React Native, Node.js e MySQL
+- 🔭 Trabalho como Desenvolvedor FullStack na empresa Qualicorp. Tenho contato diário com as tecnologias: Vue.js, Node.js e Neo4j
 - 🌱 Estudando Vue.js, React, React Native e Node.js
 - 📫 Contacte-me no email: alaodev@gmail.com
 
